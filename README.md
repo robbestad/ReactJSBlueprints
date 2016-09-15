@@ -1,7 +1,10 @@
 # ReactJS Blueprints
 
 This is the collated code repository for my book ReactJS Blueprints. 
-It is available on Packt on the following link:
+
+<img src="9781785886546.png" />
+
+The book is available to buy on the following link:
 
 https://www.packtpub.com/web-development/reactjs-blueprints
 
