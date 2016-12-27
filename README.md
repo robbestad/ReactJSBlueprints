@@ -30,5 +30,10 @@ like to expand on the ReactJS Blueprints experience by adding followup
 code and examples here, so I'll be sure to update this README.md with new 
 links.
 
+###### A note on Heroku 
+
+A lot of the chapters have examples published on Heroku. Towards the end of 
+the month, Heroku may shut down access due to the large number of requests. 
+
 - Sven
 
