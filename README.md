@@ -6,7 +6,7 @@ This is the collated code repository for my book ReactJS Blueprints.
 
 The book is available to buy on the following link:
 
-https://www.packtpub.com/web-development/reactjs-blueprints
+https://subscription.packtpub.com/book/web_development/9781785886546
 
 Each Chapter has its own repository. These are:
 
