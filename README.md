@@ -25,7 +25,7 @@ If you have any commments, issues or suggestions, please file an issue
 in the relevant chapter repository.
 
 I want you to be happy with the code and the book, so please contact me
-and let me assist before you give and post a bad review somewhere :). I'd
+and let me assist if you have any issues. I'd
 like to expand on the ReactJS Blueprints experience by adding followup
 code and examples here, so I'll be sure to update this README.md with new 
 links.
